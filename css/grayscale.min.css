@@ -23,7 +23,7 @@
  .contact-section{padding:5rem 0 0; background: url(../img/sea.jpeg);background-position:center;background-repeat:no-repeat;background-attachment:scroll;background-size:cover}.contact-section .card{border:0;border-bottom:.25rem solid #64a19d}.contact-section .card h4{font-size:.8rem;font-family:'Varela Round';text-transform:uppercase;letter-spacing:.15rem}.contact-section .card hr{border-color:#64a19d;border-width:.25rem;width:3rem}
 
  .contact-section .social{margin-top:5rem}
- .contact-section .social a{text-align:center;height:5rem;width:5rem;background: white;border-radius:100%;line-height:5rem;color:#429791}.contact-section .social a:hover{color:rgba(255,255,255,.5)}.contact-section .social a:active{color:#fff}body{font-family:Nunito;letter-spacing:.0625em}a{color:#64a19d}a:focus,a:hover{text-decoration:none;color:#3c6360}.bg-black{background-color:#161616!important}.bg-primary{background-color:#64a19d!important}.text-primary{color:#429791!important}footer{padding:2rem 0}
+ .contact-section .social a{text-align:center;height:5rem;width:5rem;background: white;border-radius:100%;line-height:5rem;color:#429791}.contact-section .social a:hover{color:black;}.contact-section .social a:active{color:#fff}body{font-family:Nunito;letter-spacing:.0625em}a{color:#64a19d}a:focus,a:hover{text-decoration:none;color:#3c6360}.bg-black{background-color:#161616!important}.bg-primary{background-color:#64a19d!important}.text-primary{color:#429791!important}footer{padding:2rem 0}
 
 
 
